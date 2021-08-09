@@ -36,7 +36,7 @@ Wants to become a full-time developer 💸 and an open source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I'm currently working PJ @paretogroup (React.js Dev.)
+- 👨🏽‍💻 I'm currently working at @paretogroup (Fullstack Engineer)
 - 🌱 I’m currently learning NodeJS and backend skills
 - 💬 Ask me about anything related to JS, React and Redux. (After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep early 🙃
