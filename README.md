@@ -79,3 +79,6 @@ and be a part of my journey... and See if I can make it or not!
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosilvaf/)](https://www.linkedin.com/in/gustavosilvaf/)
 
 <hr/>
+
+![Snake animation](https://github.com/gustavosilvaf/gustavosilvaf/blob/output/github-contribution-grid-snake.svg)
+
