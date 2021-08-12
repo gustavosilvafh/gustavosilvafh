@@ -80,5 +80,7 @@ and be a part of my journey... and See if I can make it or not!
 
 <hr/>
 
+My contributions
+
 ![Snake animation](https://github.com/gustavosilvaf/gustavosilvaf/blob/output/github-contribution-grid-snake.svg)
 
