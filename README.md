@@ -23,9 +23,9 @@
 <br/>
 
 <p>
-I'm Gustavo! I'm a frontend-focused FullStack JavaScript developer 🤓 looking to solve real-world 🌎 problems. I'm passionate about making open source more accessible, creating software and tools to help people and building a community. Star my repository if you find my project interesting, at least your star could help someone's intentions.
+I'm Gustavo! I'm a frontend-focused FullStack JavaScript developer 🤓 looking to solve real-world problems 🌎 . I'm passionate about making open source more accessible, creating software and tools to help people and building a community. Star my repository if you find my project interesting, at least your star could help someone's intentions.
 <br/>
-Stacks I have worked with : React, Typescript, Python-Django, Node, Redux, SCSS, ReactComponent, SCRUM, GIT, LINUX.
+Stacks I have worked with : React, Typescript, Python-Django, Node, Next, Nest, ReactQuery Data Fetch with data cache, Redux, SCSS, ReactComponent, SCRUM, GIT, LINUX.
 <br/>  
 Things I have recently experimented with : socket.io, SGBD'S, NestJS, Flutter and a lot of other ui-libs...
 <br/>
