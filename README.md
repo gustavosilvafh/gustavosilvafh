@@ -27,7 +27,7 @@ I'm Gustavo! I'm a Software Engineer and Solutions Architect 🤓
 - 👨🏽‍💻 I'm currently working at @nubank (Senior Software Engineer)
 - 📫 How to reach me: gustavofsilva@email.com
 
-❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/gustavosilvaf?label=Follow&style=social)](https://github.com/gustavosilvaf/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@gustavosilvafh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavosilvafh)](https://twitter.com/gustavosilvafh)
+❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/gustavosilvafh?label=Follow&style=social)](https://github.com/gustavosilvaf/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@gustavosilvafh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavosilvafh)](https://twitter.com/gustavosilvafh)
 and be a part of my journey... and See if I can make it or not!
 
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosilvaf/)](https://www.linkedin.com/in/gustavosilvaf/)
