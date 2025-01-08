@@ -24,7 +24,7 @@ I'm Gustavo! I'm a Software Engineer and Solutions Architect 🤓
 
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I'm currently working at @nubank (Software Engineer)
+- 👨🏽‍💻 I'm currently working at @nubank (Senior Software Engineer)
 - 📫 How to reach me: gustavofsilva@email.com
 
 ❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/gustavosilvaf?label=Follow&style=social)](https://github.com/gustavosilvaf/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@gustavosilvafh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavosilvafh)](https://twitter.com/gustavosilvafh)
